@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E487C60C-56C8-4B7E-A35B-D497622F9BED}|OleDBC\\OleDBC.csproj|c:\\users\\admin\\desktop\\c#practice\\oledbc\\oledbc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E487C60C-56C8-4B7E-A35B-D497622F9BED}|OleDBC\\OleDBC.csproj|solutionrelative:oledbc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E487C60C-56C8-4B7E-A35B-D497622F9BED}|OleDBC\\OleDBC.csproj|c:\\users\\admin\\desktop\\c#practice\\oledbc\\oledbc\\oledblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E487C60C-56C8-4B7E-A35B-D497622F9BED}|OleDBC\\OleDBC.csproj|solutionrelative:oledbc\\oledblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E487C60C-56C8-4B7E-A35B-D497622F9BED}|OleDBC\\OleDBC.csproj|c:\\users\\admin\\desktop\\c#practice\\oledbc\\oledbc\\oledbc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -23,25 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OleDBC",
+              "Title": "OleDBC.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\OleDBC.csproj",
               "RelativeDocumentMoniker": "OleDBC\\OleDBC.csproj",
               "ToolTip": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\OleDBC.csproj",
               "RelativeToolTip": "OleDBC\\OleDBC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T07:00:57.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T07:00:57.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\Class1.cs",
-              "RelativeDocumentMoniker": "OleDBC\\Class1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\Class1.cs",
-              "RelativeToolTip": "OleDBC\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Title": "OleDBLib.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\OleDBLib.cs",
+              "RelativeDocumentMoniker": "OleDBC\\OleDBLib.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\c#Practice\\OleDBC\\OleDBC\\OleDBLib.cs",
+              "RelativeToolTip": "OleDBC\\OleDBLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T06:53:34.021Z",
               "EditorCaption": ""

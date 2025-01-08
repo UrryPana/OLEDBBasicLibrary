@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OleDBC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+781bdc6bb02253f04e423e73f54cc62a1cb8cd37")]
 [assembly: System.Reflection.AssemblyProductAttribute("OleDBC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OleDBC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
